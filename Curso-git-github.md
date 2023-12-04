@@ -1,4 +1,4 @@
-# Resumo Git GitHub
+# Curso Git GitHub
 
 Repositori para armazenar resumos do curso git e git GitHub
 da [Digital innovatio one](https://www.dio.me/)
