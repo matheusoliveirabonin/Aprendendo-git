@@ -1,4 +1,4 @@
-# Repositorio de Aprendizado
+# Repositório de Aprendizado
 
 Repositorio para anotações e resumos de cursos
 
